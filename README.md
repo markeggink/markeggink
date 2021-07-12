@@ -4,6 +4,8 @@
 Welcome to my GitHub page.
 I have a strong passion for automation using scripting. I acquired my skills from 15+ years of experience as a Jack of all Trades. In my spare time I enjoy to helping other people writing scripts through online communities and fora. My fascination with automation started back when very few companies valued its potential. But fortunately for me, this changed drastically over the past few years. Due to Microsoft's shift in attitude towards open-source and the availability of Azure services, I am happy to observe that automation and orchestration has become a priority at many companies..
 
+[Link button](https://eggink.net/){: .btn .btn-purple }
+
 ## General
 - Current employer Claranet Benelux
 - Skills: Windows and Linux Engineering, Operations en scripting
