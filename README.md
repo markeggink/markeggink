@@ -1,5 +1,3 @@
-[alt text](https://github.com/markeggink/markeggink/blob/main/1_zVnWJtyGOX_kUIDm6ccCfQ.gif)
-
 ## _Introduction_
 
 Welcome to my GitHub page.
