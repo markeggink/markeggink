@@ -1,4 +1,4 @@
-# Aloha!
+# Hi there!
 ## _Introduction_
 
 Welcome to my GitHub page.
