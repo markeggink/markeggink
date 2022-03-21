@@ -1,4 +1,5 @@
-# Hi there!
+![alt text](http://url/to/img.png)
+
 ## _Introduction_
 
 Welcome to my GitHub page.
