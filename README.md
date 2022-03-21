@@ -9,9 +9,11 @@ I have a strong passion for automation using scripting. I acquired my skills fro
 - Skills: Windows and Linux Engineering, Operations en scripting
 - Languages: Dutch, English and part spanish
 - Code: Powershell, Curl, PHP, HTML, CSS, SQL, MySQL/MariaDB, JSON
+- Platforms: Microsoft, Microsoft Azure, CentOS, Ubuntu
+- Orchestrators: Ivanti, N-Central, HashiCorp, Kaseya
+- Hosting: WHMCS
 
-## Daily Tasks
-
+## Daily Operations
 - Projects & tasks include (but NOT limited to):
 - Migration/deployment to public, private, hybrid, multi cloud solutions
 - Setup monitoring, alerting, and reporting
