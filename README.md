@@ -16,11 +16,10 @@ I have a strong passion for technology. I acquired my skills from 15+ years of e
 - Migration/deployment to public, private, hybrid, multi cloud solutions
 - Setup monitoring, alerting, and reporting
 - Disaster recovery (design, build, document and test)
-- multi factor Wi-Fi and VPN authentication
+- Microsoft Cloud PKI for Wi-Fi and VPN authentication
 - MSSQL databases with High availability (Manage)
 - Hard/software (beta) evaluation/testing
 - Workstation & Server virtualization
-- Network Management: Switches, firewalls, DNS, DHCP, radius, firewall, VPN, Wi-Fi, load balancing
 - Security: Privacy, ethics, policies
 - High Availability systems based on clustering and redundancy
 - Identifying and resolving performance bottlenecks
