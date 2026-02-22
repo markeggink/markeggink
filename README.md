@@ -33,3 +33,4 @@ I have a strong passion for technology. I acquired my skills from 15+ years of e
 - Communication with customers, suppliers, and providers
 - Working on ISO 27001 compliance environments
 
+![Alternatieve tekst](./readme-banner.png)
