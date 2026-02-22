@@ -32,3 +32,4 @@ I have a strong passion for technology. I acquired my skills from 15+ years of e
 - Taking part in ITIL roles (like incident control, problem, change and technical account management)
 - Communication with customers, suppliers, and providers
 - Working on ISO 27001 compliance environments
+
