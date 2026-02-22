@@ -5,11 +5,11 @@ I have a strong passion for technology. I acquired my skills from 15+ years of e
 
 ## General
 - Job Description: Windows SysOps/DevOps Engineer, Cloud Consultant
-- Languages: Dutch, English and Spanish
-- Code: Powershell, PHP, HTML, SQL, MySQL/MariaDB
+- Languages: Dutch, English
+- Code: Powershell, Bicep, Arm, PHP, HTML, SQL, MySQL/MariaDB
 - Platforms: Microsoft Stack, Microsoft Azure, CentOS, RedHat
-- Orchestrators: Ivanti, N-Able
-- Hosting: WHMCS (Subscription Automation)
+- Orchestrators: Ivanti (RES), N-Able
+- Hosting: WHMCS (Service Automation)
 
 ## Daily Operations
 - Projects & tasks include (but NOT limited to):
